@@ -9,7 +9,6 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "express": "^4.18.2",
     "s": "^1.0.0"
   },
   "devDependencies": {},
